@@ -1,0 +1,22 @@
+h1{
+
+color: green;
+font-size: 250%;
+
+
+.josefin-slab-<uniquifier> {
+  font-family: "Josefin Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+}
+
+
+div {
+width:640px;
+margin-right:auto;
+margin-leftt:auto;
+
+}
