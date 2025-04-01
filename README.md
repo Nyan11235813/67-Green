@@ -1,0 +1,1 @@
+I developed a small EC site using ホームページ・ビルダー with HTML and CSS as a student     project, focusing on e-commerce functions, user-friendly design, and responsiveness, enhancing my web development skills.
